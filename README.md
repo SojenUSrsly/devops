@@ -1,2 +1,2 @@
 # devops
-Hello DevOps
+Это мой первый DevOps-репозиторий !
