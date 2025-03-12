@@ -1,6 +1,5 @@
 # devops
-Это мой первый DevOps-репозиторий !
-linux commands
+Linux commands:
 pwd			    #Текущая дерриктория
 ls -lah			    #Просмотр файлов
 cd /path		    #Переход в новую папку
