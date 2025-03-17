@@ -7,5 +7,5 @@
 
 1. **Клонировать репозиторий:**
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/SojenUSrsly/devops.git
    cd REPO_NAME
